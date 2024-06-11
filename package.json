@@ -7,7 +7,7 @@
     "angular": "^1.6.4",
     "angular-resource": "^1.6.4",
     "angular-translate": "2.11.*",
-    "jquery": "^3.2.1"
+    "jquery": "^3.7.1"
   },
   "devDependencies": {
     "babel-core": "~6.21.0",
